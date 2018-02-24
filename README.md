@@ -4,4 +4,5 @@ Python
 Ansible
 Terraform
 Jinja2
-I am lead 
+I am lead
+There are three stages Install Configure Enable 
