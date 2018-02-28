@@ -5,4 +5,5 @@ Ansible
 Terraform
 Jinja2
 I am lead
-There are three stages Install Configure Enable 
+There are three stages Install Configure Enabla
+git pull origin master 
